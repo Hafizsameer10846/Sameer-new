@@ -1,3 +1,3 @@
 # Sameer-new
-<br>
-I am Sameer,creating a git repositery.
+I am Sameer,<br>
+creating a git repositery.
